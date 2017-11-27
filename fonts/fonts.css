@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'PF BeauSans Pro';
+    src: url('PFBeauSansPro-Regular.eot');
+    src: url('PFBeauSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PFBeauSansPro-Regular.woff') format('woff'),
+        url('PFBeauSansPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF BeauSans Pro';
+    src: url('PFBeauSansPro-Black.eot');
+    src: url('PFBeauSansPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('PFBeauSansPro-Black.woff') format('woff'),
+        url('PFBeauSansPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF BeauSans Pro';
+    src: url('PFBeauSansPro-Bold.eot');
+    src: url('PFBeauSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PFBeauSansPro-Bold.woff') format('woff'),
+        url('PFBeauSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
