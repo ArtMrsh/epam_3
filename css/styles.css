@@ -116,11 +116,11 @@ header > .container {
 }
 main {
 	background-color: black;
-	background-image: url(../img/banner.png), url(../img/subbanner.png);
-	background-repeat: no-repeat, no-repeat;
-	-webkit-background-size: cover, cover;
-	background-size: cover, cover;
-	background-position: center top, center bottom;
+	background-image: url(../img/banner.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center top;
 }
 .banner__form {
 	background-color: rgba(0,0,0, .45);
